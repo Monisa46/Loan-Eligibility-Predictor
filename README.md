@@ -53,7 +53,6 @@ Conclusion
 - Random Forest performs better in detecting approvals but has lower recall for denials  
 - Final predictions are generated using Random Forest and saved to a CSV file
 
-Demo link youtube voice over :https://youtu.be/nGnjjrUEWiU
 
 License
 
